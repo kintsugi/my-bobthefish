@@ -1,0 +1,10 @@
+set -l red #cc9999 #e06c75 #c24038
+set -l green #98c379 #98c379 #6d8c56
+set -l blue #48b4fb #005faf #255e87
+set -l orange #e5c07b #unused #d19a66
+set -l brown #bf5e00 #803f00 #4d2600
+set -l grey #abb2bf #999999 #2F333D
+set -l white #f8f8f0
+set -l black #181A1F
+set -l ruby_red #c24038
+set -l go_blue #56b6c2
